@@ -1,1 +1,2 @@
 Hello Git!
+This is line 1 - we are working to standardize all git workflow
