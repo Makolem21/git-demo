@@ -1,2 +1,3 @@
 Hello Git!
 This is line 1 - we are working to standardize all git workflow
+This is from feature -1: Checking out how branches works.
